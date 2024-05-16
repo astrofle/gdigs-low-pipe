@@ -28,3 +28,5 @@ Issues = "https://github.com/astrofle/gdigs-low-pipe/issues"
 
 [project.scripts]
 run_pipe = "gdigs_low_pipe.cli.run_pipe:main"
+stack = "gdigs_low_pipe.cli.stack:main"
+eq2gal = "gdigs_low_pipe.cli.eq2gal:main"
